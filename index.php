@@ -14,7 +14,7 @@ $data = [
     'organizationName' => 'Flight Express V2',
     'passTypeIdentifier' => 'pass.com.sp.evententry', // Change this!
     'serialNumber' => '12345678',
-    'teamIdentifier' => 'MS7X7622VQ', // Change this!
+    'teamIdentifier' => 'MS7X7622VQ', // Change this! 
     'boardingPass' => [
         'primaryFields' => [
             [
